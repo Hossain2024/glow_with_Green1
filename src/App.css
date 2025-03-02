@@ -1,0 +1,15 @@
+.container{
+  display: flex;
+  background-color: rgb(212, 248, 212); 
+  overflow:auto;
+
+
+}
+.heading {
+  text-align: center;  
+  margin: 0;            
+  padding: 50px 0;  
+  width: 100%;  
+  font-size: 200px;      
+}
+
